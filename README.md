@@ -1,6 +1,6 @@
 # Lunar Lander Controller for Espruino
 
-This piece of code will make a physical controller with four touch sensors powered by a Espruino microcontroller (I am using the [Pico)](http://www.espruino.com/Pico) act as the arrow keys to play online games. This was designed as the first assignment for Tom Igoe's Tangible Interaction Workshop at the Interactive Communications Program at NYU-Tisch. 
+This piece of code will make a physical controller with four touch sensors powered by a Espruino microcontroller (I am using the [Pico)](http://www.espruino.com/Pico) act as the arrow keys from a keyboard to play online games. This was designed as the first assignment for Tom Igoe's Tangible Interaction Workshop at the Interactive Communications Program at NYU-Tisch. 
 
 ## Index
 This repository contains the following: 
