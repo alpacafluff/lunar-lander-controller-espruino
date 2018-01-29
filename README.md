@@ -5,7 +5,10 @@ This piece of code will make a physical controller with four touch sensors power
 # Index
 This repository contains the following: 
 
-- A testing guide for the touch sensor
+- Testing code for the touch sensor
 - A program for the controller using the [USB Keyboard Module](http://www.espruino.com/modules/USBKeyboard.js). 
 
 *Note: the easiest way to program a Espruino Microcontroller is using the [Web IDE](https://chrome.google.com/webstore/detail/espruino-web-ide/bleoifhkdalbjfbobjackfdifdneehpo) from the Chrome Web Store*
+
+# Hardware used: 
+
