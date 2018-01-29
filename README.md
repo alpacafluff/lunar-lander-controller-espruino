@@ -2,7 +2,7 @@
 
 This piece of code will make a physical controller with four touch sensors powered by a Espruino microcontroller (I am using the [Pico)](http://www.espruino.com/Pico) act as the arrow keys to play online games. This was designed as the first assignment for Tom Igoe's Tangible Interaction Workshop at the Interactive Communications Program at NYU-Tisch. 
 
-# Index
+## Index
 This repository contains the following: 
 
 - Testing code for the touch sensor
@@ -10,5 +10,8 @@ This repository contains the following:
 
 *Note: the easiest way to program a Espruino Microcontroller is using the [Web IDE](https://chrome.google.com/webstore/detail/espruino-web-ide/bleoifhkdalbjfbobjackfdifdneehpo) from the Chrome Web Store*
 
-# Hardware used: 
+## Hardware 
+- 4 Catalex capacitive touch sensor (code adapted from [Henry's Bench](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/catalex-ttp223b-arduino-capacitive-touch-sensor-tutorial/) sample code for Arduino). 
+- A breadboard pushbutton (wired with a 10k Ohm pull-down resistor)
+-A Espruino Pico board
 
