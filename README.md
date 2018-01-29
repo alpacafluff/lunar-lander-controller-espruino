@@ -13,5 +13,5 @@ This repository contains the following:
 ## Hardware 
 - 4 Catalex capacitive touch sensor (code adapted from [Henry's Bench](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/catalex-ttp223b-arduino-capacitive-touch-sensor-tutorial/) sample code for Arduino). 
 - A breadboard pushbutton (wired with a 10k Ohm pull-down resistor)
--A Espruino Pico board
+- A Espruino Pico board
 
