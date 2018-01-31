@@ -1,3 +1,5 @@
+/* Make sure the baud rate is set to 9600, if using the Espruino IDE this is defined in Settings > Communications > Baud Rate (this has a dropdown menu to the right)*/
+
 var sensor= B3;
 pinMode(sensor, 'input');
 var sensorState = 0;
