@@ -84,7 +84,7 @@ What follows is a piece of Javascript code that turns a device powered with a Es
        // EVENT LISTENER for Left Arrow Sensor, Green, B6
 
          setWatch(
-          function(thrustSensorTouched) {
+          function(leftSensorTouched) {
            //trigger mouse click
            kb.tap(kb.KEY.LEFT);
            console.log("Left sensor is touched");
