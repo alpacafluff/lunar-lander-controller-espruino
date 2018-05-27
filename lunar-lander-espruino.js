@@ -14,7 +14,7 @@ What follows is a piece of Javascript code that turns a device powered with a Es
 /* INCLUSION OF LIBRARIES / MODULES */
 
   // Require USB HID keyboard module
-    var keyboard = require("USBKeyboard");
+    var kb = require("USBKeyboard");
 
   // Require USB HID mouse module
     var mouse = require("USBMouse");
@@ -35,7 +35,7 @@ What follows is a piece of Javascript code that turns a device powered with a Es
 
   // Left Arrow Sensor, Green, B6
     var leftSensor= B6;
-    pinMode(leftSensor 'input');
+    pinMode(leftSensor, 'input');
 
 /* PROGRAM */
 
@@ -93,7 +93,7 @@ What follows is a piece of Javascript code that turns a device powered with a Es
           leftSensor,
           { repeat: true, edge: 'rising', debounce: 50 }
           );
-       
+
 
 // It's important to save the software on the Pico, as it needs to be unplugged in order to be read as a USB HID device
 save();
