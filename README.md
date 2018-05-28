@@ -11,6 +11,6 @@ This repository contains the following:
 *Note: the easiest way to program a Espruino Microcontroller is using the [Web IDE](https://chrome.google.com/webstore/detail/espruino-web-ide/bleoifhkdalbjfbobjackfdifdneehpo) from the Chrome Web Store*
 
 ## Hardware 
-- 5 Catalex capacitive touch sensor (code adapted from [Henry's Bench](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/catalex-ttp223b-arduino-capacitive-touch-sensor-tutorial/) sample code for Arduino). 
+- 4 Catalex capacitive touch sensor (code adapted from [Henry's Bench](http://henrysbench.capnfatz.com/henrys-bench/arduino-sensors-and-input/catalex-ttp223b-arduino-capacitive-touch-sensor-tutorial/) sample code for Arduino). 
 - A Espruino Pico board
 
